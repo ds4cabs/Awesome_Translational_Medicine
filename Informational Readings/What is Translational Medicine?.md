@@ -4,7 +4,7 @@ This field operates in two main directions:
 - Bench-to-bedside: Translating basic scientific research into new therapies and clinical practices.
 - Bedside-to-bench: Using clinical observations to inform and refine laboratory research.
 
-Translational medicine emerged in the 1990s and became widely recognized in the early 2000s. Different stakeholders interpret its purpose slightly differently:
+Translational medicine emerged in the 1990s and became widely recognized in the early 2000s. As it is a relatively new field, different stakeholders interpret its purpose slightly differently:
 - Patients and practitioners: Emphasize the quick application of research to improve clinical outcomes.
 - Academics: Focus on testing new scientific concepts in clinical settings.
 - Industry: Aims to speed up the development and commercialization of new treatments.
